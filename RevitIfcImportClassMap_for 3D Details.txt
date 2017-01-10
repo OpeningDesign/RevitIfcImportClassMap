@@ -1,0 +1,106 @@
+# IFC Class Name and Type to Revit Category/Sub-Category Table
+# Maps IFC Class and Type to Revit Category/Sub-Category
+# You may edit using File -> Import/Export Settings -> IFC Options... .
+# -----------------------------------------------------
+IfcActuator			Specialty Equipment
+IfcAirTerminal			DuctTerminal
+IfcAirTerminalBox			Mechanical Equipment
+IfcAirToAirHeatRecovery			Mechanical Equipment
+IfcAlarm			Specialty Equipment
+IfcAudioVisualAppliance			SpecialtyEquipment
+IfcBeam			Structural Framing
+IfcBoiler			Mechanical Equipment
+IfcBuildingElementPart			Parts
+IfcBuildingElementProxy			
+IfcBurner			Mechanical Equipment
+IfcCableCarrierFitting			Cable Tray Fittings
+IfcCableCarrierSegment		CONDUITSEGMENT	Conduit
+IfcCableFitting			ConduitFitting
+IfcCableSegment			Conduit
+IfcChilller			Mechanical Equipment
+IfcCivilElement			Generic Models
+IfcCoil			Mechanical Equipment
+IfcColumn			Structural Columns
+IfcCommunicationsAppliance			SpecialtyEquipment
+IfcCompressor			Specialty Equipment
+IfcCondenser			Mechanical Equipment
+IfcController			Specialty Equipment
+IfcCooledBeam			Mechanical Equipment
+IfcCoolingTower			Mechanical Equipment
+IfcCovering			Generic Models
+IfcCurtainWall			CurtainWallPanels
+IfcDamper			Mechanical Equipment
+IfcDiscreteAccessory			StructConnections
+IfcDistributionChamberElement			Mechanical Equipment
+IfcDistributionFlowElement			Mechanical Equipment
+IfcDoor			Doors
+IfcDuctFitting			DuctFitting
+IfcDuctSegment			DuctFitting
+IfcDuctSilencer			MechanicalEquipment
+IfcElectricAppliance		DISHWASHER	Plumbing Fixtures
+IfcElectricDistributionBoard			Mechanical Equipment
+IfcElectricFlowStorageDevice			Specialty Equipment
+IfcElectricGenerator			Mechanical Equipment
+IfcElectricMotor			Mechanical Equipment
+IfcElectricTimeControl			Mechanical Equipment
+IfcEngine			Mechanical Equipment
+IfcEvaporativeCooler			Mechanical Equipment
+IfcEvaporator			Mechanical Equipment
+IfcFan			Mechanical Equipment
+IfcFastener			Structural Connections
+IfcFilter			MechanicalEquipment
+IfcFireSuppressionTerminal			SpecialtyEquipment
+IfcFlowInstrument			Specialty Equipment
+IfcFlowMeter			Mechanical Equipment
+IfcFlowMovingDevice			Specialty Equipment
+IfcFooting			Structural Foundations
+IfcFurnishingElement			Furniture
+IfcFurniture		CASEWORK	Casework
+IfcGeographicElement		TinDesign	Site
+IfcHeatExchanger			Mechanical Equipment
+IfcHumidifier			Mechanical Equipment
+IfcInterceptor			MechanicalEquipment
+IfcJunctionBox			ConduitFitting
+IfcLamp			Lighting Devices
+IfcLightFixture			Lighting Fixtures
+IfcMechanicalFastener			Specialty Equipment
+IfcMedicalDevice			Specialty Equipment
+IfcMember			Structural Framing
+IfcMotorConnection			Mechanical Equipment
+IfcOutlet			Specialty Equipment
+IfcPile			Structural Foundations
+IfcPipeFitting			Pipe Fittings
+IfcPipeSegment		FLEXIBLESEGMENT	PipeSegments
+IfcPlate			StructConnections
+IfcProtectiveDevice			Mechanical Equipment
+IfcProtectiveDeviceTrippingUnit			Specialty Equipment
+IfcPump			Mechanical Equipment
+IfcRailing		HANDRAIL	RailingHandRail
+IfcRamp			Ramps
+IfcRampFlight			Ramps
+IfcReinforcingBar			Structural Rebar
+IfcReinforcingMesh			Structural Fabric Areas
+IfcRoof			Roofs
+IfcSanitaryTerminal			Plumbing Fixtures
+IfcSensor			Specialty Equipment
+IfcSlab			Floors
+IfcSolarDevice			Mechanical Equipment
+IfcSpaceHeater			MechanicalEquipment
+IfcStackTerminal			MechanicalEquipment
+IfcStair			Stairs
+IfcStairFlight			Stairs
+IfcSwitchingDevice			Electrical Fixtures
+IfcSystemFurnitureElement			FurnitureSystems
+IfcTank			Specialty Equipment
+IfcTendon			Structural Connections
+IfcTendonAnchor			Structural Connections
+IfcTransformer			Mechanical Equipment
+IfcTransportElement			Specialty Equipment
+IfcTubeBundle			Mechanical Equipment
+IfcUnitaryControlElement			Specialty Equipment
+IfcUnitaryEquipment			Mechanical Equipment
+IfcValve			Pipe Accessories
+IfcVibrationIsolator			
+IfcWall			Walls
+IfcWasteTerminal			MechanicalEquipment
+IfcWindow			Windows
